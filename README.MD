@@ -1,11 +1,10 @@
 # Mapty
 
-This project tracks user's exercise activity by logging the activity location on the map
+This project helps users track their exercise activity by logging the activity location on the map
 
 ![](img/Screenshot.png)
 
-
-Live view:  [live](https://mapty-8ms9w4x29-yaya-usman.vercel.app/)
+Live view: [live](https://mapty-8ms9w4x29-yaya-usman.vercel.app/)
 
 ### Built with
 
@@ -14,6 +13,7 @@ Live view:  [live](https://mapty-8ms9w4x29-yaya-usman.vercel.app/)
 - Vanila Javascript
 - Leaflet Library
 - Geolocation API
+
 ### What i learnt
 
 - working with the Geo-location Api
@@ -22,4 +22,5 @@ Live view:  [live](https://mapty-8ms9w4x29-yaya-usman.vercel.app/)
 - some new css properties i never knew about was also learnt along the way
 
 **Attribution**
-This project is a code-along project from the Javascript Bootcamp  course by Jonas Schemdtmann
+
+This project is a code-along project from the Javascript Bootcamp course by Jonas Schemdtmann
