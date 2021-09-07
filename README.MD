@@ -1,6 +1,6 @@
 # Mapty
 
-This project helps users track their exercise activity by logging the activity location on the map
+This project helps users track their workout activity by logging the activity location on the map
 
 ![](img/Screenshot.png)
 
